@@ -1,0 +1,16 @@
+2023-08-06 01:09:14.744435 - Initialized conversion of CBT108
+2023-08-06 01:09:14.923112 - Received CBT.V505.FILE108.PDS from FILE108.XMI 
+2023-08-06 01:09:14.925632 - Found @FILE108.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/@FILE108
+2023-08-06 01:09:14.927077 - Found ASMP.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/ASMP
+2023-08-06 01:09:14.928156 - Found ASMPC.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/ASMPC
+2023-08-06 01:09:14.929060 - Found ASMPCL.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/ASMPCL
+2023-08-06 01:09:14.929948 - Found ASMPCLG.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/ASMPCLG
+2023-08-06 01:09:14.930780 - Found BAR.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/BAR
+2023-08-06 01:09:14.931643 - Found CC.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/CC
+2023-08-06 01:09:14.932534 - Found CMTCLIST.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/CMTCLIST
+2023-08-06 01:09:14.933419 - Found DOCUMENT.txt (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/DOCUMENT
+2023-08-06 01:09:14.934643 - Found FLIP.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/FLIP
+2023-08-06 01:09:14.935695 - Found MASKDATA.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/MASKDATA
+2023-08-06 01:09:14.936640 - Found MSC0150$.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/MSC0150$
+2023-08-06 01:09:14.937681 - Found STGMAP.jcl (text/plain) in CBT.V505.FILE108.PDS, moved to PDS/STGMAP
+2023-08-06 01:09:14.937691 - Found USERDOCP.bin containing application/octet-stream, moved to PDS/USERDOCP
